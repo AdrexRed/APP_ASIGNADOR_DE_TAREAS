@@ -1,0 +1,2 @@
+# APP_ASIGNADOR_DE_TAREAS
+Una aplicación tipo calendario en la cual el docente está en capacidad de asignar tareas a los estudiantes. En la aplicación se podrá ver el estado de las tareas asignadas teniendo en cuenta 3 fases principales que son: abierta, en curso y cerrada. El docente podrá hacer seguimiento a cada una de las tareas asignadas a cada uno de los estudiantes pudiendo de esta forma colocar la calificación al estudiante una vez se haya finalizado la tarea.
